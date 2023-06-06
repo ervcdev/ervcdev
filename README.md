@@ -15,18 +15,16 @@ También me he adentrado en el mundo de la blockchain, con experiencia en Solidi
 
 - Estudiante del SENA
 - Actualmente en Platzi
+<h1 align="center">Hi 👋, I'm Ervin Castro Perez</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-## Habilidades técnicas
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- <img src="https://i.imgur.com/HTML_icon.png" width="24"> HTML
-- <img src="https://i.imgur.com/CSS_icon.png" width="24"> CSS
-- <img src="https://i.imgur.com/JavaScript_icon.png" width="24"> JavaScript
-- <img src="https://i.imgur.com/NodeJS_icon.png" width="24"> Node.js
-- <img src="https://i.imgur.com/MySQL_icon.png" width="24"> MySQL
-- <img src="https://i.imgur.com/MongoDB_icon.png" width="24"> MongoDB
-- <img src="https://i.imgur.com/ReactJS_icon.png" width="24"> React.js
-- <img src="https://i.imgur.com/Solidity_icon.png" width="24"> Solidity
-- <img src="https://i.imgur.com/Hardhat_icon.png" width="24"> Hardhat
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 ¡Me encanta aprender y enfrentar nuevos desafíos! Siempre estoy buscando oportunidades para mejorar mis habilidades y contribuir en proyectos emocionantes.
 
