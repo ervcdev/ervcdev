@@ -7,14 +7,14 @@ Desarrollador de software | Estudiante
 
 ## Sobre mí
 
-Soy un apasionado desarrollador de software con experiencia en diferentes tecnologías y frameworks. Mi enfoque principal está en el desarrollo web, utilizando herramientas como HTML, CSS y JavaScript para crear interfaces y experiencias de usuario interactivas. Además, tengo conocimientos en Node.js, MySQL y MongoDB para el desarrollo del lado del servidor y la gestión de bases de datos.
-
-También me he adentrado en el mundo de la blockchain, con experiencia en Solidity y el framework Hardhat para el desarrollo de contratos inteligentes y aplicaciones descentralizadas.
+Soy un apasionado desarrollador de software con experiencia en diferentes tecnologías y frameworks. Mi enfoque principal está en el desarrollo web.
+También me he adentrado en el mundo de la blockchain, con experiencia en  desarrollo de contratos inteligentes y aplicaciones descentralizadas.
 
 ## Educación
 
-- Estudiante del SENA
-- Actualmente en Platzi
+- Actualmente en Platzi.
+- Autodidacta
+- 
 <h1 align="center">Hi 👋, I'm Ervin Castro Perez</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
