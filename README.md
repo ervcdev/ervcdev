@@ -2,9 +2,6 @@
 
 Desarrollador de software | Estudiante
 
-[![LinkedIn](https://i.imgur.com/Xj1oPqM.png)](https://www.linkedin.com/in/tu_perfil_de_LinkedIn)
-[![Twitter](https://i.imgur.com/wWzX9uB.png)](https://www.twitter.com/tu_perfil_de_Twitter)
-
 ## Sobre mí
 
 Soy un apasionado desarrollador de software con experiencia en diferentes tecnologías y frameworks. Mi enfoque principal está en el desarrollo web.
