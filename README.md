@@ -25,7 +25,7 @@ También me he adentrado en el mundo de la blockchain, con experiencia en  desar
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ervin castro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ervin castro" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://github.com/ervcdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/ervcdev" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ervin-castro-perez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/ervcdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
