@@ -15,7 +15,9 @@ Skills & Knowledge
 # 👋 ¡Hola, soy Ervin Castro!  
 🚀 Desarrollador Web3 | Solidity & TypeScript | Explorando la blockchain  
 
-## 🛠 Tech Stack
+
+![Visitas](https://komarev.com/ghpvc/?username=ervcdev&label=Visitas&color=blue)
+
 ## 🛠 Tech Stack  
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)  
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)  
