@@ -15,6 +15,14 @@ Skills & Knowledge
 # 👋 ¡Hola, soy Ervin Castro!  
 🚀 Desarrollador Web3 | Solidity & TypeScript | Explorando la blockchain  
 
+gits
+solidity<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500">
+pensando <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500">
+programando <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+
+
+
+
 
 ![Visitas](https://komarev.com/ghpvc/?username=ervcdev&label=Visitas&color=blue)
 
