@@ -7,6 +7,11 @@ When I’m not coding, I enjoy learning about physics and improving my English t
 
 Skills & Knowledge
 
+## 📊 Mis estadísticas
+![ervcdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ervcdev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervcdev&layout=compact&theme=radical)
+
+
 Blockchain Development
 <img src="https://img.icons8.com/fluency/48/solidity.png" alt="Solidity" width="25"/> Solidity
 <img src="https://img.icons8.com/ios/50/ethereum.png" alt="EVM" width="25"/> Ethereum Virtual Machine (EVM)
@@ -18,6 +23,14 @@ Frontend Development
 <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="25"/> JavaScript
 <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="25"/> TypeScript
 <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" width="25"/> Next.js
+
+## 🛠 Tech Stack
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
 
 ## 🌍 Encuéntrame en:
 - 🐦 [Twitter](https://twitter.com/ervcdev)
