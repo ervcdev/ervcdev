@@ -12,31 +12,33 @@ Skills & Knowledge
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervcdev&layout=compact&theme=radical)
 
 
-Blockchain Development
-<img src="https://img.icons8.com/fluency/48/solidity.png" alt="Solidity" width="25"/> Solidity
-<img src="https://img.icons8.com/ios/50/ethereum.png" alt="EVM" width="25"/> Ethereum Virtual Machine (EVM)
-<img src="https://img.icons8.com/color/48/web3.png" alt="Web3.js" width="25"/> Web3.js
-<img src="https://img.icons8.com/color/48/ether.png" alt="Ether.js" width="25"/> Ether.js
-
-Frontend Development
-<img src="https://img.icons8.com/office/48/react.png" alt="React" width="25"/> React
-<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="25"/> JavaScript
-<img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="25"/> TypeScript
-<img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" width="25"/> Next.js
+# 👋 ¡Hola, soy Ervin Castro!  
+🚀 Desarrollador Web3 | Solidity & TypeScript | Explorando la blockchain  
 
 ## 🛠 Tech Stack
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+## 🛠 Tech Stack  
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
 
+
+## 📊 GitHub Stats
+![ervcdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ervcdev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervcdev&layout=compact&theme=radical)
 
 ## 🌍 Encuéntrame en:
 - 🐦 [Twitter](https://twitter.com/ervcdev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ervcdev)
-- 🌐 [Portafolio](https://ervcdev.com) *(si tienes uno)*
+- 🌐 [Portafolio](https://ervcdev.com)
 
+![Visitas](https://komarev.com/ghpvc/?username=ervcdev&label=Visitas&color=blue)
 
 Languages
 🇪🇸 Spanish (Native)
