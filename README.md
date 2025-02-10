@@ -19,8 +19,11 @@ Frontend Development
 <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="25"/> TypeScript
 <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" width="25"/> Next.js
 
-Operating System & Tools
-<img src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="Ubuntu" width="25"/> Ubuntu Linux
+## 🌍 Encuéntrame en:
+- 🐦 [Twitter](https://twitter.com/ervcdev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ervcdev)
+- 🌐 [Portafolio](https://ervcdev.com) *(si tienes uno)*
+
 
 Languages
 🇪🇸 Spanish (Native)
